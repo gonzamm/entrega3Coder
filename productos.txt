@@ -1,0 +1,20 @@
+[
+{
+  "titulo": "Escuadra",
+  "precio": 123.45,
+  "thumbail": "urlImagen",
+  "id": 1
+},
+{
+  "titulo": "Calculadora",
+  "precio": 234.56,
+  "thumbail": "urlImagen",
+  "id": 2
+},
+{
+  "titulo": "Globo Terraqueo",
+  "precio": 345.67,
+  "thumbail": "urlImagen",
+  "id": 3
+}
+]
